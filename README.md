@@ -4,5 +4,5 @@ I have made this repository as a practice for me to keep in touch with my coding
 
 
 <b>Source:</b>
-Learn Python the Hard way [https://learnpythonthehardway.org/python3]
-KTByers [https://pynet.twb-tech.com/free-python-course.html]
+<p>Learn Python the Hard way [https://learnpythonthehardway.org/python3] </p>
+<p>KTByers [https://pynet.twb-tech.com/free-python-course.html] </p>
